@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+joblib
+transformers
+torch==2.5.0
+tqdm
+peft
+bitsandbytes
+safetensors
+datasets
+accelerate
+
+# Optional extras for GPU fine-tuning and larger models: peft, bitsandbytes, safetensors
